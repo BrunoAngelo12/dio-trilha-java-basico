@@ -13,4 +13,8 @@ public class Client {
         this.clientName = clientName;
         this.accountBalance = accountBalance;
     }
+
+    public String toString(){
+        return "Hello " + this.clientName + ", thank you for creating an account at our bank, your branch is " + this.accountAgency + ", account " + this.accountNumber + " and your balance $" + this.accountBalance + " is now available for withdrawal!";
+    }
 }

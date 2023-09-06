@@ -18,9 +18,11 @@ public class ContaTerminal {
         String newAccountFullName = sc.nextLine();
         System.out.print("*Account balance: ");
         double newAccountBalance = sc.nextDouble();
+        System.out.println();
 
         //TODO: Creating the client object for future methods
         Client client = new Client(newAccountNumber, newAgencyNumber, newAccountFullName, newAccountBalance);
-        
+        System.out.println(client.toString());
+        sc.close();
     }
 }
