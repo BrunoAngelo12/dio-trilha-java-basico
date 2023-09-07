@@ -1,18 +1,20 @@
-## Getting Started
+# Sintaxe - Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio DIO para exercitar todo o conteúdo apresentado no módulo de Sintaxe do bootcamp backend Santander 2023. 🧠
 
-## Folder Structure
+O desafio trata-se de uma simulação que receberá dados via terminal contendo as características de uma nova conta bancária.
 
-The workspace contains two folders by default, where:
+Na execução do programa será solicitado 4 dados em sequencia para criação da nova conta, sendo esses dados do tipo:
+- int
+- String
+- String
+- double
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Créditos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Meu contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bruno-angelo-089a62243/)
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![GitHub](https://img.shields.io/badge/github-111?style=for-the-badge&logo=github)](https://github.com/BrunoAngelo12)
